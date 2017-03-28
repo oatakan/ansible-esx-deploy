@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Role Name
 =========
 
@@ -36,3 +37,7 @@ Author Information
 ------------------
 
 An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+=======
+# ansible-esx-deploy
+Deploy a VM on an ESXi host
+>>>>>>> 4156d013e39d8261d41ff42dee11008bae5407a4
