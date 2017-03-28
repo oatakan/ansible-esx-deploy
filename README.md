@@ -8,8 +8,8 @@ Requirements
 ------------
 pysphere locally on the Ansible server (not the ESX server)
 
-http://docs.ansible.com/ansible/vsphere_guest_module.html
-
+http://docs.ansible.com/ansible/vsphere_guest_module.html#requirements-on-host-that-executes-module
+	
 
 Example Execution
 ----------------
