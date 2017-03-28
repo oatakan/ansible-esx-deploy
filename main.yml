@@ -1,0 +1,10 @@
+- name: MAIN TASK
+  hosts: localhost
+  vars_files:
+    - defaults/main.yml
+    - vars/main.yml
+    - vars/secure.yml
+  remote_user: root
+  tasks:
+    - include: tasks/main.yml
+
